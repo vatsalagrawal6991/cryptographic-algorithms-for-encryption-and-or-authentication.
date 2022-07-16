@@ -1,0 +1,358 @@
+Symmetric Key
+ss9j6/V7TDa5P6GN4baVbA==
+Sender's RSA Public Key
+b'-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLEDxuBQr/AsgG/LIuq9\n7Zn10QYGm27WMijSva9Z4RfpPY3D3oRpdk3WTYDDZF97NBQYI0YDhcFVSVIFbnQ9\npVFPAmx262I7CXKCfu3qNyEk0nQrETgyj/fU7LcWanNI0diOEJL6Pd8VKdQsIcjO\nd3L29MwslJXokiekCDyjzy34QvhluTeteJLeAGyhtfUHgqfy7JnjXuIHybR8+bSX\n0WsQxrzTIWfBFOHRLZCibwiF151E2hAr0PG7Y1M3L00i+vnDzj3b6djHK99Uf2bm\n2Khf/wZ1zKkbisyiGlUEGIsnKCztUZplq1ljLed6GXoqVIwt/2PKu2wpDCH0lbqr\nbQIDAQAB\n-----END PUBLIC KEY-----'
+Sender's RSA Private Key
+b'-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEAzLEDxuBQr/AsgG/LIuq97Zn10QYGm27WMijSva9Z4RfpPY3D\n3oRpdk3WTYDDZF97NBQYI0YDhcFVSVIFbnQ9pVFPAmx262I7CXKCfu3qNyEk0nQr\nETgyj/fU7LcWanNI0diOEJL6Pd8VKdQsIcjOd3L29MwslJXokiekCDyjzy34Qvhl\nuTeteJLeAGyhtfUHgqfy7JnjXuIHybR8+bSX0WsQxrzTIWfBFOHRLZCibwiF151E\n2hAr0PG7Y1M3L00i+vnDzj3b6djHK99Uf2bm2Khf/wZ1zKkbisyiGlUEGIsnKCzt\nUZplq1ljLed6GXoqVIwt/2PKu2wpDCH0lbqrbQIDAQABAoIBAAMHasCw2K2eoAbC\nhyU1utvFcUX6xD92k2rbzP2+ye8ZYhUygAyB6LTPqahgWGpBOdrnO56bmzlWenZp\nGIJHuN9ozAK2ki5UUZiHl92Px1Ox60NfmE30ulYEQXCQGp/QPVEFo4yK1qZY78Ci\n6CHgpwizeQR3i2bwSCgphM7hmHCPY2k3GFdH8F7klkSc6aztRRQ8qwiiM1d3nxDL\nvNwibOGr6kXACmagvg5qvHm0nEDhdBhkpFMh98Hq5uqcfCoF5hDYybHavpRtGk/P\nlF0qjGwBrfRCNzNQ3Gg1u+r4hQv9oMSuh+8jsjzyJKjTRQ66TT5odN4DsrCkaPNQ\nS4Uxp00CgYEA4llNgT6z6GcT3/2CzoIj/Xf0Wewyt0UpFWTzI8y5/d4OnFQgrgQZ\nxcFX9IOKFNYzQXposrSXNOSEWi96/O5mQsKi30QiXyx7EJe2fJPxdhmVk/MBllQz\nYybB8HnjUxtNamcuHI41KH6ziHze1yKlrveuCpdpjzs7NAAIne7W0RsCgYEA54Fs\nZUAaYOiyeiGKCFscKgHLEo9p+hYW4sMLkAKQAVlp4SJVJkIC/dGCBiZH7GRGQN4K\nTePTHRJD39OMGsJxVQQBiiTxZq3tpaeQU7ynOonUdQ7gvvegFOuvpIGMqiZLohBR\nss9ssFxTflzK5eh7DkK1QW1sqcBPXmRpeK5JxhcCgYB5YBfekYgZvIR83U1yfXjd\nJ6DhQ3ZirnR8Y3i6HsMxrgy5qacoiUxkrewDUzINQFuV5hUUlyBqHYwXbFSQIyq0\n6/g4rymbTZfkauZRYWfew5NhFbMpMJepuJPQ5xuOahqWTyP77gn1YBPXwdYhGRQt\ngeVTCqRxSPrTRJ1aS0PoNwKBgDC8sXo7XZJLSs+lYe7SZ4J8cCkPIitxHQ5OK4/8\nyh5OmZi45p4wRXrz8WCkDH46ugOL+zVcoiQ7pSho29UCXGOefUh88IlCUoaOWTcX\nv0j2nVCreisZ7Iya9ZY3Y8qqVz/eGaUAQAx802MF2/08zTM6XfhRNhAimVLw5rdu\nUb+vAoGBAJKMC0/8FeOy26RJu1oUZrxLOYs3yj/Cwik/I8Skng49MOZHLBouBULN\neTltVIWSZfS7L2jSMrw/6Murgx9fluojijPoESqYY/rN3riJSKtIJ9giIIYLf8pp\nslcy5uhzcTRS24WarEVt04o7r8j/swrMLw7octRQwjxKgN5EyB/Q\n-----END RSA PRIVATE KEY-----'
+Receiver's RSA Public Key
+b'-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6Pm2RfKYVE6ZULPnYpP3\n6a9hip1pzzNZq8F3Eq+er1nyQtPgLGAEeOyJIDNZHuTI7o33I/iHhLyPk+Nh0yZX\nRAr9jWlSbqEGZef5SaZZOfW06nco4tmQ/wtwZQTBUdthcEVk3iTKXuyGS/W3ts2S\noGCmOwHJl9m/o+FL1CjKq7byTLmyIDwXSrQS/ukwTSkQ0/nCjxg8Uzeze6LVeZS6\ncn3/8xYvTuD/g5Wtwl2bVXHKYGTQNdA6U2VhpJTgmpGCWzrDSianf7n/gI1TGg2l\nT9mE/MJDulIKDueIEsTz15l+Z85gewwnOLL/ldS1+sq+UMrLote7HxoucciKDeTe\n+wIDAQAB\n-----END PUBLIC KEY-----'
+Receiver's RSA Private Key
+b'-----BEGIN RSA PRIVATE KEY-----\nMIIEpAIBAAKCAQEA6Pm2RfKYVE6ZULPnYpP36a9hip1pzzNZq8F3Eq+er1nyQtPg\nLGAEeOyJIDNZHuTI7o33I/iHhLyPk+Nh0yZXRAr9jWlSbqEGZef5SaZZOfW06nco\n4tmQ/wtwZQTBUdthcEVk3iTKXuyGS/W3ts2SoGCmOwHJl9m/o+FL1CjKq7byTLmy\nIDwXSrQS/ukwTSkQ0/nCjxg8Uzeze6LVeZS6cn3/8xYvTuD/g5Wtwl2bVXHKYGTQ\nNdA6U2VhpJTgmpGCWzrDSianf7n/gI1TGg2lT9mE/MJDulIKDueIEsTz15l+Z85g\newwnOLL/ldS1+sq+UMrLote7HxoucciKDeTe+wIDAQABAoIBAAi5+2ClwTYkA4yJ\nHV+msm1ayy9WZuicWcpPL6PP8QR/ozPRnKuZpR4Kbh1HDxpTI4ICaBsKBVMTGD9H\n3LNi0934M2sg/AKpnjdVXkcRJ6jXuHRLDLycJAw8yqb3nwe75rhxdC4sXpz6BKwp\nT6PvROpXWtXW/IAaZ4Bx9FWSeZTyh3FCj8fJOUJbbu2bp1jM3AuK574yfHehJP0r\nKu65usI7kVlRhBAJ+qzPbHQCAnZcM5OmxeIUbyQg+Vq6De1UwA76Kw6ulz+SLpmb\nD+r00959m54wRF9FAP6KlStToUJkJjsbzJh844MI2KkCqy6B48nRUP9fdwhjZwIX\nxskjeMECgYEA83RFxamnIfHPWYXXRvunLZ5LpFMCJIULBYeSszBiUg0XoVem40Zk\nw1rVVL3rtme/jSJjNgqzbo2kY6xbIlzgLDk0RpevSFV7ua0fsEuxCKThbGLg/V4v\nnQ0KDINONa9o8r7FcTAjoXQlkKtbdsk4RUvzpfWib1eQvrO3mD5HBrECgYEA9Psz\nSIgp+kWB77fKBY2jQRD/aP8o4OW959HsqpPL2DxcXC3C6kKBX/N4183q+7UlYIGL\n+ZrfmV1fefm0m06O3FsbwfqrJXUYoPOqtqj91a3G3K3U08cSQUE7PqAbnp5td4Gc\nokIeYCZLDlzMfQQ+AypEmoeTUbfZQcjJ0E1xA2sCgYEAusr/rcWZwuWx3lJe9sun\nXc0S5KX8AuFBr6Bx4qLBDYuWEeka107viSRsgnSmInI/+p3j2VckjTKIayGXWyo/\npi7N+Uvw5WMRZ0l6At5Qmv1HKM5FKqHVjn6usyMcIvzPXVEaVNpGvF5NZE7WArIp\nRqIb874gP6XEHU3vFBTUkkECgYAJ0tjnm64zPv5K4o/TUS6uuUPErhaxjgTjeuOG\no46VCTaa66rZQfl2I4lA/hziIw1wpUE7rR4yRDBD7+NyJuBLrcubJ7YdNmjaa2r5\nECW9n85NoxrZsy3kN/1sMXdqEOhK1oO1bflR2bdAyC/bA4SJE/TUTYN2z2yC2s5c\n7/4MKQKBgQDjhr+vLqCop3EF3CIYJSY7mX7oG6b6DsI65r4oNlzuSy7VZbBSEj8i\nUhS9Kv29OFdLlp2bkyeIvs9EEMXEsjDYTLzIiYVdYSqn1Dmgu4/PReMrw3YJVo94\neOfNTDq/yrT5xaggDqi6laqPMEzUo6ReDaaavhrqhlTL9ORriBrfZw==\n-----END RSA PRIVATE KEY-----'
+Sender's ECC Public Key
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEcFdjTyHdnPoNn8bV+gyut1LKkBEh
+TDsvYWmMzt4iaFP3w3GAaifkkQLgY+Rcj6YLP0thlTYNpSGbBLFZa95vYg==
+-----END PUBLIC KEY-----
+Sender's ECC Private Key
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgCChTnDJ2TC8c1zM7
+YGf7nql4OQ+mVlrCx6F2K+orLEWhRANCAARwV2NPId2c+g2fxtX6DK63UsqQESFM
+Oy9haYzO3iJoU/fDcYBqJ+SRAuBj5FyPpgs/S2GVNg2lIZsEsVlr3m9i
+-----END PRIVATE KEY-----
+Time
+4.866733729024418
+
+
+
+Key length
+[192, 3600, 13392, 3600, 13424, 1416, 1920]
+
+
+
+Nonce for AES-128-CBC
+2s4u2TYww8SfVnga+IRWWw==
+Nonce for AES-128-CTR
+H8zlFReC/XY=
+NOnce for RSA-2048
+Vs3B+YreFlVPH1fCghG/GA==
+Nonce for AES-128-CMAC
+L8KgapXzTVH7+Iie1IOXfw==
+Nonce for SHA3-256-HMAC
+qGcOuuKuCrZ+elEyzzRwCA==
+Nonce for RSA-2048-SHA3-256
+vG2IEdzqL5icP07be8dqqA==
+Nonce for ECDSA
+AlV9GQj1wbMjen7kDJA7Jg==
+Nonce for AES-128-GCM
+S+m1MrWjNX+vBa6D
+Time
+4.055292811244726e-05
+
+
+
+Charizard was designed by Atsuko Nishida for the first generation of Pocket Monsters games Red and Green, which were localized outside Japan as Pokemon Red and Blue. Charizard was designed before Charmander, the latter being actually based on the former. Originally called lizardon in Japanese, Nintendo decided to give the various Pokemon species clever and descriptive names related to their appearance or features when translating the game for western audiences as a means to make the characters more relatable to American children. As a result, they were renamed Charizard, a portmanteau of the words charcoal or char and lizard.
+
+Plaintext Length
+5072
+
+
+
+Algorithm
+AES-128-CBC-ENC
+Encryption Key
+ss9j6/V7TDa5P6GN4baVbA==
+Plaintext
+Charizard was designed by Atsuko Nishida for the first generation of Pocket Monsters games Red and Green, which were localized outside Japan as Pokemon Red and Blue. Charizard was designed before Charmander, the latter being actually based on the former. Originally called lizardon in Japanese, Nintendo decided to give the various Pokemon species clever and descriptive names related to their appearance or features when translating the game for western audiences as a means to make the characters more relatable to American children. As a result, they were renamed Charizard, a portmanteau of the words charcoal or char and lizard.
+
+Nonce
+2s4u2TYww8SfVnga+IRWWw==
+Ciphertext
+XAzfwwctcFerz12hr+ewNgXLxsfM1BVjoHKRUrfB6zULA6ybmQ34iJ1r5Av2YnZDykRpJfFL0nTlG6CM4K0J2MkPjCzr5MXKXnrCJGMJnlgceQSVj8UBXhnWrwb6cYRECeexrYack1Btaol6n9Z1ZvbfQSvoNmd64QavlP9OSeNxPuYG/XJo5FCEOYCDFr56aUPldMcIpRP8bAR5Y+aZDvbMfY73u5HFneB3+rQSRnv+5ecJxaxDaWj1KBlwnQolLX8xZ9Th9bwTRfcFfIr3Y2J2PcG/xsuHmZFZM1CthGfRQWvl4OyY7fCcWX78oA1YIJLVXnmiTcJ8/nqLdysf1tc41a+iCSkOxkcOeDswu9WwYDC61DRmxTMjW74V0iW+VWc9T2tpB4oP2js7YhxzMmBhIdCyAXs1nnY5ngBliVnXQx0AoFXB2/+UQxUonKOdhRNLIYhZYXAiV7c1Ouvr7LcfNfGZsgFNozp/0Rwux0gkYjhT40r1mtX6GW1Z6XHnPtnwXUw2uIRKS9Vurz8mjA4zRNvR3bqGp3eHCMQGTMFGCszcVZOQ8YBazO6XElegs6k/PSxgKMlMIMT8hc5vKBtKyWtOb8ujv4UXHj0bxXWkHu9qYr3Ibp19naPuFvYpm7SIO0CG7mesApICxZsiiAKMo0iKQDFv53EvvvrYVsk/nnQaVErS9SE/DiCndGextRUGV7OwJuhJYDrMr8EO0O3vKPoO/TkHAJxYFLNNrsWga2usx9Ob5D2NpYD2ltqUE8tS41D8TXF+f/ulbPVIRh7jFgTeVj0RdJ5paoiGcfjhQBVBUgl5RpCTTIu2JisPLYkK4tqNVDinNN8phWakjA==
+Time
+0.2154720714315772
+
+Algorithm
+AES-128-CBC-DEC
+Decryption Key
+ss9j6/V7TDa5P6GN4baVbA==
+Plaintext
+Charizard was designed by Atsuko Nishida for the first generation of Pocket Monsters games Red and Green, which were localized outside Japan as Pokemon Red and Blue. Charizard was designed before Charmander, the latter being actually based on the former. Originally called lizardon in Japanese, Nintendo decided to give the various Pokemon species clever and descriptive names related to their appearance or features when translating the game for western audiences as a means to make the characters more relatable to American children. As a result, they were renamed Charizard, a portmanteau of the words charcoal or char and lizard.
+
+Nonce
+2s4u2TYww8SfVnga+IRWWw==
+Ciphertext
+XAzfwwctcFerz12hr+ewNgXLxsfM1BVjoHKRUrfB6zULA6ybmQ34iJ1r5Av2YnZDykRpJfFL0nTlG6CM4K0J2MkPjCzr5MXKXnrCJGMJnlgceQSVj8UBXhnWrwb6cYRECeexrYack1Btaol6n9Z1ZvbfQSvoNmd64QavlP9OSeNxPuYG/XJo5FCEOYCDFr56aUPldMcIpRP8bAR5Y+aZDvbMfY73u5HFneB3+rQSRnv+5ecJxaxDaWj1KBlwnQolLX8xZ9Th9bwTRfcFfIr3Y2J2PcG/xsuHmZFZM1CthGfRQWvl4OyY7fCcWX78oA1YIJLVXnmiTcJ8/nqLdysf1tc41a+iCSkOxkcOeDswu9WwYDC61DRmxTMjW74V0iW+VWc9T2tpB4oP2js7YhxzMmBhIdCyAXs1nnY5ngBliVnXQx0AoFXB2/+UQxUonKOdhRNLIYhZYXAiV7c1Ouvr7LcfNfGZsgFNozp/0Rwux0gkYjhT40r1mtX6GW1Z6XHnPtnwXUw2uIRKS9Vurz8mjA4zRNvR3bqGp3eHCMQGTMFGCszcVZOQ8YBazO6XElegs6k/PSxgKMlMIMT8hc5vKBtKyWtOb8ujv4UXHj0bxXWkHu9qYr3Ibp19naPuFvYpm7SIO0CG7mesApICxZsiiAKMo0iKQDFv53EvvvrYVsk/nnQaVErS9SE/DiCndGextRUGV7OwJuhJYDrMr8EO0O3vKPoO/TkHAJxYFLNNrsWga2usx9Ob5D2NpYD2ltqUE8tS41D8TXF+f/ulbPVIRh7jFgTeVj0RdJ5paoiGcfjhQBVBUgl5RpCTTIu2JisPLYkK4tqNVDinNN8phWakjA==
+Time
+0.6764230784028769
+Packet Output Length & Type
+6848
+<class 'str'>
+
+
+
+Algorithm
+AES-128-CTR-ENC
+Encryption Key
+ss9j6/V7TDa5P6GN4baVbA==
+Plaintext
+Charizard was designed by Atsuko Nishida for the first generation of Pocket Monsters games Red and Green, which were localized outside Japan as Pokemon Red and Blue. Charizard was designed before Charmander, the latter being actually based on the former. Originally called lizardon in Japanese, Nintendo decided to give the various Pokemon species clever and descriptive names related to their appearance or features when translating the game for western audiences as a means to make the characters more relatable to American children. As a result, they were renamed Charizard, a portmanteau of the words charcoal or char and lizard.
+
+Nonce
+H8zlFReC/XY=
+Ciphertext
+IUiVNNGoU6gRD5vSfQeyJANib8NnbDi0TWhxraegUd+0f8j1SA+OMc1mS2M8zTpGEpUzy5YyQudiLxAtmQIqNg/RQVzqyA+UiuDKjtDsaHsdCtWYFixjGrphSeFBIDycIZkt10mUCNTvynqn2yTnu++N45rymbwiUtTqTvihDKoidvF8mHOS54Uoqq2nxPUr9IQMCkMuLkoTDDPPBrJLe56CgjKqzTberZlDAKDB6xN3v29aJ1IyqSvch8ZJSr9bfYD2dmkIsepESlwkH9nAV2D5zSVUA/5dOIb9lSP+IF/I94sa03btfBiej2xPCO7jKJEwFCvb7Axxhm1NllpSJdecJmVtF47L9dIaOQiQlyc7kNLwIsJoBlACqZrwEAUhxf9dD+mB96KFsb+Awp0bKbDCiz3abdOPc+60TnzIuixqp9i+/YqA/9sMd7KifaZOWdFx6DrVDUtb23vZ+SoyUL2aZf3gpaQ9+v1m0ABwCsmbkwV226lWjSlt9gR9C0F2IcmVRxQQkX0Iamhodzi4PWOdgfxfmX8BHlpE7s2TtmQ92kGSmALd+ehDyUxLnzW9JNVlHE5ipD3/UZ4qcG+oCydW0ZPIL/ekcQmRiv6S4MWLtVpzOrPSTSsRDEsNEmxr6QU16XwzM+SVv8OLFGm9msRnOF3sjMBTh+UmSFqVe+Yh8djlN5oAOK3kpeGRpm3SEGNOpCQhZITsoUUpijFMVac+uNl5iDNOLZWnHKOzrcxAROTHhjM5wDQWZ+qUyMHppNQ+qnPE9r/MVxmh2KWrZOVwfQ9J2/CG4bNlMdsBHVszGRD1sdrJsuHxnvIYntNwjtka2GUUp5JjFA==
+Time
+0.18399395048618317
+
+Algorithm
+AES-128-CTR-DEC
+Decryption Key
+ss9j6/V7TDa5P6GN4baVbA==
+Plaintext
+Charizard was designed by Atsuko Nishida for the first generation of Pocket Monsters games Red and Green, which were localized outside Japan as Pokemon Red and Blue. Charizard was designed before Charmander, the latter being actually based on the former. Originally called lizardon in Japanese, Nintendo decided to give the various Pokemon species clever and descriptive names related to their appearance or features when translating the game for western audiences as a means to make the characters more relatable to American children. As a result, they were renamed Charizard, a portmanteau of the words charcoal or char and lizard.
+
+Nonce
+H8zlFReC/XY=
+Ciphertext
+IUiVNNGoU6gRD5vSfQeyJANib8NnbDi0TWhxraegUd+0f8j1SA+OMc1mS2M8zTpGEpUzy5YyQudiLxAtmQIqNg/RQVzqyA+UiuDKjtDsaHsdCtWYFixjGrphSeFBIDycIZkt10mUCNTvynqn2yTnu++N45rymbwiUtTqTvihDKoidvF8mHOS54Uoqq2nxPUr9IQMCkMuLkoTDDPPBrJLe56CgjKqzTberZlDAKDB6xN3v29aJ1IyqSvch8ZJSr9bfYD2dmkIsepESlwkH9nAV2D5zSVUA/5dOIb9lSP+IF/I94sa03btfBiej2xPCO7jKJEwFCvb7Axxhm1NllpSJdecJmVtF47L9dIaOQiQlyc7kNLwIsJoBlACqZrwEAUhxf9dD+mB96KFsb+Awp0bKbDCiz3abdOPc+60TnzIuixqp9i+/YqA/9sMd7KifaZOWdFx6DrVDUtb23vZ+SoyUL2aZf3gpaQ9+v1m0ABwCsmbkwV226lWjSlt9gR9C0F2IcmVRxQQkX0Iamhodzi4PWOdgfxfmX8BHlpE7s2TtmQ92kGSmALd+ehDyUxLnzW9JNVlHE5ipD3/UZ4qcG+oCydW0ZPIL/ekcQmRiv6S4MWLtVpzOrPSTSsRDEsNEmxr6QU16XwzM+SVv8OLFGm9msRnOF3sjMBTh+UmSFqVe+Yh8djlN5oAOK3kpeGRpm3SEGNOpCQhZITsoUUpijFMVac+uNl5iDNOLZWnHKOzrcxAROTHhjM5wDQWZ+qUyMHppNQ+qnPE9r/MVxmh2KWrZOVwfQ9J2/CG4bNlMdsBHVszGRD1sdrJsuHxnvIYntNwjtka2GUUp5JjFA==
+Time
+0.0701759709045291
+Packet Output Length & Type
+6784
+<class 'str'>
+
+
+
+Algorithm
+RSA-2048-ENC
+Encryption Key
+b'-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6Pm2RfKYVE6ZULPnYpP3\n6a9hip1pzzNZq8F3Eq+er1nyQtPgLGAEeOyJIDNZHuTI7o33I/iHhLyPk+Nh0yZX\nRAr9jWlSbqEGZef5SaZZOfW06nco4tmQ/wtwZQTBUdthcEVk3iTKXuyGS/W3ts2S\noGCmOwHJl9m/o+FL1CjKq7byTLmyIDwXSrQS/ukwTSkQ0/nCjxg8Uzeze6LVeZS6\ncn3/8xYvTuD/g5Wtwl2bVXHKYGTQNdA6U2VhpJTgmpGCWzrDSianf7n/gI1TGg2l\nT9mE/MJDulIKDueIEsTz15l+Z85gewwnOLL/ldS1+sq+UMrLote7HxoucciKDeTe\n+wIDAQAB\n-----END PUBLIC KEY-----'
+Plaintext
+ss9j6/V7TDa5P6GN4baVbA==
+Nonce
+Vs3B+YreFlVPH1fCghG/GA==
+Ciphertext
+2TRuGhu+VeK0VkPg/JJSAhj5t/Uhst4Q803mn7AwjtHiFdu/elROo2y1VvDRH1J/yt6vP7gRRJ4VEFjiTWZ4BV0tZPHdSI7Ef6q8Xvch86sa5gm994ANFrQBOWv3h6N6vRy30nzgZQAGn+oIeuj4wjHa2wUhJ18m9UUUlyzxpx5GTXgVGDUBhwzRPPUrCyDj4de6QwmAwRajC3trzADMva4kpmeE/cEY0ZmlM0cNeW/UiEkGffFO8vHigsKNNl1PObKpLHb2h1amJZ/yJLjGMJTBR1sf8wX+shXjE00Nl/OZaY/P7gl5BPwODyzb8T1MJE/v8bR2/svN/cA0i2srEg==
+Time
+3.855608985759318
+
+Algorithm
+RSA-2048-DEC
+Decryption Key
+b'-----BEGIN RSA PRIVATE KEY-----\nMIIEpAIBAAKCAQEA6Pm2RfKYVE6ZULPnYpP36a9hip1pzzNZq8F3Eq+er1nyQtPg\nLGAEeOyJIDNZHuTI7o33I/iHhLyPk+Nh0yZXRAr9jWlSbqEGZef5SaZZOfW06nco\n4tmQ/wtwZQTBUdthcEVk3iTKXuyGS/W3ts2SoGCmOwHJl9m/o+FL1CjKq7byTLmy\nIDwXSrQS/ukwTSkQ0/nCjxg8Uzeze6LVeZS6cn3/8xYvTuD/g5Wtwl2bVXHKYGTQ\nNdA6U2VhpJTgmpGCWzrDSianf7n/gI1TGg2lT9mE/MJDulIKDueIEsTz15l+Z85g\newwnOLL/ldS1+sq+UMrLote7HxoucciKDeTe+wIDAQABAoIBAAi5+2ClwTYkA4yJ\nHV+msm1ayy9WZuicWcpPL6PP8QR/ozPRnKuZpR4Kbh1HDxpTI4ICaBsKBVMTGD9H\n3LNi0934M2sg/AKpnjdVXkcRJ6jXuHRLDLycJAw8yqb3nwe75rhxdC4sXpz6BKwp\nT6PvROpXWtXW/IAaZ4Bx9FWSeZTyh3FCj8fJOUJbbu2bp1jM3AuK574yfHehJP0r\nKu65usI7kVlRhBAJ+qzPbHQCAnZcM5OmxeIUbyQg+Vq6De1UwA76Kw6ulz+SLpmb\nD+r00959m54wRF9FAP6KlStToUJkJjsbzJh844MI2KkCqy6B48nRUP9fdwhjZwIX\nxskjeMECgYEA83RFxamnIfHPWYXXRvunLZ5LpFMCJIULBYeSszBiUg0XoVem40Zk\nw1rVVL3rtme/jSJjNgqzbo2kY6xbIlzgLDk0RpevSFV7ua0fsEuxCKThbGLg/V4v\nnQ0KDINONa9o8r7FcTAjoXQlkKtbdsk4RUvzpfWib1eQvrO3mD5HBrECgYEA9Psz\nSIgp+kWB77fKBY2jQRD/aP8o4OW959HsqpPL2DxcXC3C6kKBX/N4183q+7UlYIGL\n+ZrfmV1fefm0m06O3FsbwfqrJXUYoPOqtqj91a3G3K3U08cSQUE7PqAbnp5td4Gc\nokIeYCZLDlzMfQQ+AypEmoeTUbfZQcjJ0E1xA2sCgYEAusr/rcWZwuWx3lJe9sun\nXc0S5KX8AuFBr6Bx4qLBDYuWEeka107viSRsgnSmInI/+p3j2VckjTKIayGXWyo/\npi7N+Uvw5WMRZ0l6At5Qmv1HKM5FKqHVjn6usyMcIvzPXVEaVNpGvF5NZE7WArIp\nRqIb874gP6XEHU3vFBTUkkECgYAJ0tjnm64zPv5K4o/TUS6uuUPErhaxjgTjeuOG\no46VCTaa66rZQfl2I4lA/hziIw1wpUE7rR4yRDBD7+NyJuBLrcubJ7YdNmjaa2r5\nECW9n85NoxrZsy3kN/1sMXdqEOhK1oO1bflR2bdAyC/bA4SJE/TUTYN2z2yC2s5c\n7/4MKQKBgQDjhr+vLqCop3EF3CIYJSY7mX7oG6b6DsI65r4oNlzuSy7VZbBSEj8i\nUhS9Kv29OFdLlp2bkyeIvs9EEMXEsjDYTLzIiYVdYSqn1Dmgu4/PReMrw3YJVo94\neOfNTDq/yrT5xaggDqi6laqPMEzUo6ReDaaavhrqhlTL9ORriBrfZw==\n-----END RSA PRIVATE KEY-----'
+Plaintext
+ss9j6/V7TDa5P6GN4baVbA==
+Nonce
+Vs3B+YreFlVPH1fCghG/GA==
+Ciphertext
+2TRuGhu+VeK0VkPg/JJSAhj5t/Uhst4Q803mn7AwjtHiFdu/elROo2y1VvDRH1J/yt6vP7gRRJ4VEFjiTWZ4BV0tZPHdSI7Ef6q8Xvch86sa5gm994ANFrQBOWv3h6N6vRy30nzgZQAGn+oIeuj4wjHa2wUhJ18m9UUUlyzxpx5GTXgVGDUBhwzRPPUrCyDj4de6QwmAwRajC3trzADMva4kpmeE/cEY0ZmlM0cNeW/UiEkGffFO8vHigsKNNl1PObKpLHb2h1amJZ/yJLjGMJTBR1sf8wX+shXjE00Nl/OZaY/P7gl5BPwODyzb8T1MJE/v8bR2/svN/cA0i2srEg==
+Time
+64.64481295552105
+Packet Output Length & Type
+2752
+<class 'str'>
+
+
+
+Algorithm
+AES-128-CMAC-GEN
+Authentication Key
+ss9j6/V7TDa5P6GN4baVbA==
+Plaintext
+Charizard was designed by Atsuko Nishida for the first generation of Pocket Monsters games Red and Green, which were localized outside Japan as Pokemon Red and Blue. Charizard was designed before Charmander, the latter being actually based on the former. Originally called lizardon in Japanese, Nintendo decided to give the various Pokemon species clever and descriptive names related to their appearance or features when translating the game for western audiences as a means to make the characters more relatable to American children. As a result, they were renamed Charizard, a portmanteau of the words charcoal or char and lizard.
+
+Nonce
+L8KgapXzTVH7+Iie1IOXfw==
+Authentication Tag
+rUGsyL2Rwo4LboThyLO4vQ==
+Time
+1.0243930155411363
+
+Algorithm
+AES-128-CMAC-VRF
+Authentication Key
+ss9j6/V7TDa5P6GN4baVbA==
+Plaintext
+Charizard was designed by Atsuko Nishida for the first generation of Pocket Monsters games Red and Green, which were localized outside Japan as Pokemon Red and Blue. Charizard was designed before Charmander, the latter being actually based on the former. Originally called lizardon in Japanese, Nintendo decided to give the various Pokemon species clever and descriptive names related to their appearance or features when translating the game for western audiences as a means to make the characters more relatable to American children. As a result, they were renamed Charizard, a portmanteau of the words charcoal or char and lizard.
+
+Nonce
+L8KgapXzTVH7+Iie1IOXfw==
+Authentication Tag
+rUGsyL2Rwo4LboThyLO4vQ==
+Authentication Tag Valid
+True
+Time
+0.31206803396344185
+Packet Output Length(tag,data,total) & Type
+192
+5072
+5264
+<class 'str'>
+<class 'str'>
+
+
+
+Algorithm
+SHA3-256-HMAC-GEN
+Authentication Key
+ss9j6/V7TDa5P6GN4baVbA==
+Plaintext
+Charizard was designed by Atsuko Nishida for the first generation of Pocket Monsters games Red and Green, which were localized outside Japan as Pokemon Red and Blue. Charizard was designed before Charmander, the latter being actually based on the former. Originally called lizardon in Japanese, Nintendo decided to give the various Pokemon species clever and descriptive names related to their appearance or features when translating the game for western audiences as a means to make the characters more relatable to American children. As a result, they were renamed Charizard, a portmanteau of the words charcoal or char and lizard.
+
+Nonce
+qGcOuuKuCrZ+elEyzzRwCA==
+Authentication Tag
+u+L8vD9AmlVUQ4fvhZrasOxBLDtgnCk9KZXCeJ121h0=
+Time
+1.2630249839276075
+
+Algorithm
+SHA3-256-HMAC-VRF
+Authentication Key
+ss9j6/V7TDa5P6GN4baVbA==
+Plaintext
+Charizard was designed by Atsuko Nishida for the first generation of Pocket Monsters games Red and Green, which were localized outside Japan as Pokemon Red and Blue. Charizard was designed before Charmander, the latter being actually based on the former. Originally called lizardon in Japanese, Nintendo decided to give the various Pokemon species clever and descriptive names related to their appearance or features when translating the game for western audiences as a means to make the characters more relatable to American children. As a result, they were renamed Charizard, a portmanteau of the words charcoal or char and lizard.
+
+Nonce
+qGcOuuKuCrZ+elEyzzRwCA==
+Authentication Tag
+u+L8vD9AmlVUQ4fvhZrasOxBLDtgnCk9KZXCeJ121h0=
+Authentication Tag Valid
+True
+Time
+0.1298410352319479
+Packet Output Length(tag,data,total) & Type
+352
+5072
+5424
+<class 'str'>
+<class 'str'>
+
+
+
+Algorithm
+RSA-2048-SHA3-256-SIG-GEN
+Authentication Key
+b'-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEAzLEDxuBQr/AsgG/LIuq97Zn10QYGm27WMijSva9Z4RfpPY3D\n3oRpdk3WTYDDZF97NBQYI0YDhcFVSVIFbnQ9pVFPAmx262I7CXKCfu3qNyEk0nQr\nETgyj/fU7LcWanNI0diOEJL6Pd8VKdQsIcjOd3L29MwslJXokiekCDyjzy34Qvhl\nuTeteJLeAGyhtfUHgqfy7JnjXuIHybR8+bSX0WsQxrzTIWfBFOHRLZCibwiF151E\n2hAr0PG7Y1M3L00i+vnDzj3b6djHK99Uf2bm2Khf/wZ1zKkbisyiGlUEGIsnKCzt\nUZplq1ljLed6GXoqVIwt/2PKu2wpDCH0lbqrbQIDAQABAoIBAAMHasCw2K2eoAbC\nhyU1utvFcUX6xD92k2rbzP2+ye8ZYhUygAyB6LTPqahgWGpBOdrnO56bmzlWenZp\nGIJHuN9ozAK2ki5UUZiHl92Px1Ox60NfmE30ulYEQXCQGp/QPVEFo4yK1qZY78Ci\n6CHgpwizeQR3i2bwSCgphM7hmHCPY2k3GFdH8F7klkSc6aztRRQ8qwiiM1d3nxDL\nvNwibOGr6kXACmagvg5qvHm0nEDhdBhkpFMh98Hq5uqcfCoF5hDYybHavpRtGk/P\nlF0qjGwBrfRCNzNQ3Gg1u+r4hQv9oMSuh+8jsjzyJKjTRQ66TT5odN4DsrCkaPNQ\nS4Uxp00CgYEA4llNgT6z6GcT3/2CzoIj/Xf0Wewyt0UpFWTzI8y5/d4OnFQgrgQZ\nxcFX9IOKFNYzQXposrSXNOSEWi96/O5mQsKi30QiXyx7EJe2fJPxdhmVk/MBllQz\nYybB8HnjUxtNamcuHI41KH6ziHze1yKlrveuCpdpjzs7NAAIne7W0RsCgYEA54Fs\nZUAaYOiyeiGKCFscKgHLEo9p+hYW4sMLkAKQAVlp4SJVJkIC/dGCBiZH7GRGQN4K\nTePTHRJD39OMGsJxVQQBiiTxZq3tpaeQU7ynOonUdQ7gvvegFOuvpIGMqiZLohBR\nss9ssFxTflzK5eh7DkK1QW1sqcBPXmRpeK5JxhcCgYB5YBfekYgZvIR83U1yfXjd\nJ6DhQ3ZirnR8Y3i6HsMxrgy5qacoiUxkrewDUzINQFuV5hUUlyBqHYwXbFSQIyq0\n6/g4rymbTZfkauZRYWfew5NhFbMpMJepuJPQ5xuOahqWTyP77gn1YBPXwdYhGRQt\ngeVTCqRxSPrTRJ1aS0PoNwKBgDC8sXo7XZJLSs+lYe7SZ4J8cCkPIitxHQ5OK4/8\nyh5OmZi45p4wRXrz8WCkDH46ugOL+zVcoiQ7pSho29UCXGOefUh88IlCUoaOWTcX\nv0j2nVCreisZ7Iya9ZY3Y8qqVz/eGaUAQAx802MF2/08zTM6XfhRNhAimVLw5rdu\nUb+vAoGBAJKMC0/8FeOy26RJu1oUZrxLOYs3yj/Cwik/I8Skng49MOZHLBouBULN\neTltVIWSZfS7L2jSMrw/6Murgx9fluojijPoESqYY/rN3riJSKtIJ9giIIYLf8pp\nslcy5uhzcTRS24WarEVt04o7r8j/swrMLw7octRQwjxKgN5EyB/Q\n-----END RSA PRIVATE KEY-----'
+Plaintext
+Charizard was designed by Atsuko Nishida for the first generation of Pocket Monsters games Red and Green, which were localized outside Japan as Pokemon Red and Blue. Charizard was designed before Charmander, the latter being actually based on the former. Originally called lizardon in Japanese, Nintendo decided to give the various Pokemon species clever and descriptive names related to their appearance or features when translating the game for western audiences as a means to make the characters more relatable to American children. As a result, they were renamed Charizard, a portmanteau of the words charcoal or char and lizard.
+
+Nonce
+vG2IEdzqL5icP07be8dqqA==
+Authentication Tag
+UTgEb0Lnfpe0NwmUiPokf5Dpg8oDAlOSKuxuKxlIffHOmkVLQvdidmease1Dvh5nIF03WBLL89eCp1uPZwr0fxsQobCBCJP0P1UJ6m0zL0sSEw8TZTlBr/WLHACAIN2XMSkxer55nHUrS5cG3VW/pfINaaQALy9UPxyzTjP5eYocA0OPAjhLiVTzdRGFgMepdTfqkm5CjtD+/emeL/wwsDeFGFJ7ueL8aPtqZLtlInWfereD2OX9W/P7qZ0Sy/sPbdR0CHwXa/gMpcAW9FZCIdasX1G7NEAdiR8J70XnNRFIJpuyef4dNfc84FFveZhGeUW07KtZ9yKBPHtwNxACMw==
+Time
+70.91170700732619
+
+Algorithm
+RSA-2048-SHA3-256-SIG-VRF
+Authentication Key
+b'-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLEDxuBQr/AsgG/LIuq9\n7Zn10QYGm27WMijSva9Z4RfpPY3D3oRpdk3WTYDDZF97NBQYI0YDhcFVSVIFbnQ9\npVFPAmx262I7CXKCfu3qNyEk0nQrETgyj/fU7LcWanNI0diOEJL6Pd8VKdQsIcjO\nd3L29MwslJXokiekCDyjzy34QvhluTeteJLeAGyhtfUHgqfy7JnjXuIHybR8+bSX\n0WsQxrzTIWfBFOHRLZCibwiF151E2hAr0PG7Y1M3L00i+vnDzj3b6djHK99Uf2bm\n2Khf/wZ1zKkbisyiGlUEGIsnKCztUZplq1ljLed6GXoqVIwt/2PKu2wpDCH0lbqr\nbQIDAQAB\n-----END PUBLIC KEY-----'
+Plaintext
+Charizard was designed by Atsuko Nishida for the first generation of Pocket Monsters games Red and Green, which were localized outside Japan as Pokemon Red and Blue. Charizard was designed before Charmander, the latter being actually based on the former. Originally called lizardon in Japanese, Nintendo decided to give the various Pokemon species clever and descriptive names related to their appearance or features when translating the game for western audiences as a means to make the characters more relatable to American children. As a result, they were renamed Charizard, a portmanteau of the words charcoal or char and lizard.
+
+Nonce
+vG2IEdzqL5icP07be8dqqA==
+Authentication Tag
+UTgEb0Lnfpe0NwmUiPokf5Dpg8oDAlOSKuxuKxlIffHOmkVLQvdidmease1Dvh5nIF03WBLL89eCp1uPZwr0fxsQobCBCJP0P1UJ6m0zL0sSEw8TZTlBr/WLHACAIN2XMSkxer55nHUrS5cG3VW/pfINaaQALy9UPxyzTjP5eYocA0OPAjhLiVTzdRGFgMepdTfqkm5CjtD+/emeL/wwsDeFGFJ7ueL8aPtqZLtlInWfereD2OX9W/P7qZ0Sy/sPbdR0CHwXa/gMpcAW9FZCIdasX1G7NEAdiR8J70XnNRFIJpuyef4dNfc84FFveZhGeUW07KtZ9yKBPHtwNxACMw==
+Authentication Tag Valid
+True
+Time
+2.21617694478482
+Packet Output Length(tag,data,total) & Type
+2752
+5072
+7824
+<class 'str'>
+<class 'str'>
+
+
+
+Algorithm
+ECDSA-256-SHA3-256-SIG-GEN
+Authentication Key
+-----BEGIN PRIVATE KEY-----
+MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgCChTnDJ2TC8c1zM7
+YGf7nql4OQ+mVlrCx6F2K+orLEWhRANCAARwV2NPId2c+g2fxtX6DK63UsqQESFM
+Oy9haYzO3iJoU/fDcYBqJ+SRAuBj5FyPpgs/S2GVNg2lIZsEsVlr3m9i
+-----END PRIVATE KEY-----
+Plaintext
+Charizard was designed by Atsuko Nishida for the first generation of Pocket Monsters games Red and Green, which were localized outside Japan as Pokemon Red and Blue. Charizard was designed before Charmander, the latter being actually based on the former. Originally called lizardon in Japanese, Nintendo decided to give the various Pokemon species clever and descriptive names related to their appearance or features when translating the game for western audiences as a means to make the characters more relatable to American children. As a result, they were renamed Charizard, a portmanteau of the words charcoal or char and lizard.
+
+Nonce
+AlV9GQj1wbMjen7kDJA7Jg==
+Authentication Tag
+HQIGfkL+xviwuCtm5tsdLT6uJvMADRGCkyj3/dgIUdebhb0RELFgKHDg1sZdg3EmsQN3pZrhD4RG2VQwrgmZbQ==
+Time
+4.480489995330572
+
+Algorithm
+ECDSA-256-SHA3-256-SIG-VRF
+Authentication Key
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEcFdjTyHdnPoNn8bV+gyut1LKkBEh
+TDsvYWmMzt4iaFP3w3GAaifkkQLgY+Rcj6YLP0thlTYNpSGbBLFZa95vYg==
+-----END PUBLIC KEY-----
+Plaintext
+Charizard was designed by Atsuko Nishida for the first generation of Pocket Monsters games Red and Green, which were localized outside Japan as Pokemon Red and Blue. Charizard was designed before Charmander, the latter being actually based on the former. Originally called lizardon in Japanese, Nintendo decided to give the various Pokemon species clever and descriptive names related to their appearance or features when translating the game for western audiences as a means to make the characters more relatable to American children. As a result, they were renamed Charizard, a portmanteau of the words charcoal or char and lizard.
+
+Nonce
+AlV9GQj1wbMjen7kDJA7Jg==
+Authentication Tag
+HQIGfkL+xviwuCtm5tsdLT6uJvMADRGCkyj3/dgIUdebhb0RELFgKHDg1sZdg3EmsQN3pZrhD4RG2VQwrgmZbQ==
+Authentication Tag Valid
+True
+Time
+3.2051540911197662
+Packet Output Length(tag,data,total) & Type
+704
+5072
+5776
+<class 'str'>
+<class 'str'>
+
+
+
+Algorithm
+AES-128-GCM-GEN
+Encryption Key
+ss9j6/V7TDa5P6GN4baVbA==
+Authentication Key
+ss9j6/V7TDa5P6GN4baVbA==
+Plaintext
+Charizard was designed by Atsuko Nishida for the first generation of Pocket Monsters games Red and Green, which were localized outside Japan as Pokemon Red and Blue. Charizard was designed before Charmander, the latter being actually based on the former. Originally called lizardon in Japanese, Nintendo decided to give the various Pokemon species clever and descriptive names related to their appearance or features when translating the game for western audiences as a means to make the characters more relatable to American children. As a result, they were renamed Charizard, a portmanteau of the words charcoal or char and lizard.
+
+Nonce
+S+m1MrWjNX+vBa6D
+Ciphertext
+qjojfXnStf8YJXLlrk4sCqsQHG3r0sNFM6wqnWx63daWY1XV9Z6YjKke2lcLW+0jH1iX5S0OTO3gmWJWZC/TNFL0wdZuZg6FPh5Kugf+Mf54m+Ihq1qShOb+7R4+ExrqgI4DOisRVNv+2+Vrq/JQ0KROd0kOu8nSLxcMsbgadB2duSBjar7q352wUQ/hAM4mPupjlxZjCZ4NzDERdjKKMGnBWFAoEoSNvg0zc7lK/m93Bmv1njBZ8zH2kjig9dBMNyWPSmXhxXf9FtHOqhEKUVMp73nV9A7EzI7dKKTjcCirx0unC+dHWfC/D02XlAntKemNjZqflNhXzUu0A9/naJcRsKaGpOaOg7JN5FRFL74mye7u5PWB/kxNwkbK+VrHw8O353avTltN7ONtP7CTBMH1JMKybPaUJZh6Or3dwZmZPRmhJiuhg/He3YEzHRiZMsIEUCKhto8KSYsNyZ5MaPpYqUQxlli1f6XFEKiwAvMAF9ll/oTUppol9rBwYeKU8GvAWDpodIfVcVudQ3NBnkRB/mhCxOgCGFJpCpC3cllOvi2XyHI4cmOXXuUhuleBRzwhEh+I33KT3ro63RWUNCAAItTCWSLInh5FqbWzmeJ/4bZbPnBV6CdS5Hzeu+JbR+23QuLXnYW3/3tmqShrXZY6dEWFCWq6kG45KSDRSk7kc5vA5BjToLsbLzVm7hxnJQ/Tkijp1XlsJi7JLqDCgIz6hEgBbTcKgaUmYGZNlXQjvrU15z1C/VoATLzwH7K4pj2wzlXdBcnAcHl9Hx/pG7lrAgTysiplltPsj/fCpn/JKUeH994uTtXgdyfRyH/Z8UJQc/Fo0CpiNg==
+Authentication Tag
+TaZQLbdTmDPpYmff0f9zoA==
+Time
+0.43255300261080265
+
+Algorithm
+AES-128-GCM-VRF
+Decryption Key
+ss9j6/V7TDa5P6GN4baVbA==
+Authentication Key
+ss9j6/V7TDa5P6GN4baVbA==
+Plaintext
+Charizard was designed by Atsuko Nishida for the first generation of Pocket Monsters games Red and Green, which were localized outside Japan as Pokemon Red and Blue. Charizard was designed before Charmander, the latter being actually based on the former. Originally called lizardon in Japanese, Nintendo decided to give the various Pokemon species clever and descriptive names related to their appearance or features when translating the game for western audiences as a means to make the characters more relatable to American children. As a result, they were renamed Charizard, a portmanteau of the words charcoal or char and lizard.
+
+Nonce
+S+m1MrWjNX+vBa6D
+Ciphertext
+qjojfXnStf8YJXLlrk4sCqsQHG3r0sNFM6wqnWx63daWY1XV9Z6YjKke2lcLW+0jH1iX5S0OTO3gmWJWZC/TNFL0wdZuZg6FPh5Kugf+Mf54m+Ihq1qShOb+7R4+ExrqgI4DOisRVNv+2+Vrq/JQ0KROd0kOu8nSLxcMsbgadB2duSBjar7q352wUQ/hAM4mPupjlxZjCZ4NzDERdjKKMGnBWFAoEoSNvg0zc7lK/m93Bmv1njBZ8zH2kjig9dBMNyWPSmXhxXf9FtHOqhEKUVMp73nV9A7EzI7dKKTjcCirx0unC+dHWfC/D02XlAntKemNjZqflNhXzUu0A9/naJcRsKaGpOaOg7JN5FRFL74mye7u5PWB/kxNwkbK+VrHw8O353avTltN7ONtP7CTBMH1JMKybPaUJZh6Or3dwZmZPRmhJiuhg/He3YEzHRiZMsIEUCKhto8KSYsNyZ5MaPpYqUQxlli1f6XFEKiwAvMAF9ll/oTUppol9rBwYeKU8GvAWDpodIfVcVudQ3NBnkRB/mhCxOgCGFJpCpC3cllOvi2XyHI4cmOXXuUhuleBRzwhEh+I33KT3ro63RWUNCAAItTCWSLInh5FqbWzmeJ/4bZbPnBV6CdS5Hzeu+JbR+23QuLXnYW3/3tmqShrXZY6dEWFCWq6kG45KSDRSk7kc5vA5BjToLsbLzVm7hxnJQ/Tkijp1XlsJi7JLqDCgIz6hEgBbTcKgaUmYGZNlXQjvrU15z1C/VoATLzwH7K4pj2wzlXdBcnAcHl9Hx/pG7lrAgTysiplltPsj/fCpn/JKUeH994uTtXgdyfRyH/Z8UJQc/Fo0CpiNg==
+Authentication Tag
+TaZQLbdTmDPpYmff0f9zoA==
+Authentication Tag Valid
+True
+Time
+0.2442880067974329
+Packet Output Length(tag,data,total) & Type
+192
+6784
+6976
+<class 'str'>
+<class 'str'>
